@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588577074 source:e:\proyectoscodeblocks\lara_proyecto\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"funciones_lara.h"
+
+1588577116 e:\proyectoscodeblocks\lara_proyecto\funciones_lara.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

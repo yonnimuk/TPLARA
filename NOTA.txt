@@ -1,0 +1,5 @@
+Sistema Operativo para compilar: Windows 10.
+Nota: Lo empece y finalize basicamente el mismo 4(estuve dos semanas sin entender como pasar los parametros como se debia(clase 5)).
+      Asi que disculpen que la presentacion no sea la que corresponde(esta atado con alambre). asi q por lo tanto lo dejo como una entrega parcial.
+Duda: en el trabajo pide: "El campo nombre debe ser una cadena que admita espacios y que no pueda ser vacía." no se me ocurrio una manera de hacerlo y queria saber
+      como podia hacerlo o algun ejemplo que me de una idea si es posible.
